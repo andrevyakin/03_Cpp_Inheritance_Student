@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Student", "Student.vcxproj", "{10D1BBC9-0CFA-476F-B2C0-A4B37AAD0CC5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Passport", "..\Pasport\Pasport.vcxproj", "{6D98B1E9-E7AA-4D06-8F1D-67F13C084F7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{10D1BBC9-0CFA-476F-B2C0-A4B37AAD0CC5}.Debug|Win32.Build.0 = Debug|Win32
 		{10D1BBC9-0CFA-476F-B2C0-A4B37AAD0CC5}.Release|Win32.ActiveCfg = Release|Win32
 		{10D1BBC9-0CFA-476F-B2C0-A4B37AAD0CC5}.Release|Win32.Build.0 = Release|Win32
+		{6D98B1E9-E7AA-4D06-8F1D-67F13C084F7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D98B1E9-E7AA-4D06-8F1D-67F13C084F7F}.Debug|Win32.Build.0 = Debug|Win32
+		{6D98B1E9-E7AA-4D06-8F1D-67F13C084F7F}.Release|Win32.ActiveCfg = Release|Win32
+		{6D98B1E9-E7AA-4D06-8F1D-67F13C084F7F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
